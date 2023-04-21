@@ -1,2 +1,2 @@
 # my_git_learnings
-git_learning
+git_learning changed in second
